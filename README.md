@@ -1,4 +1,4 @@
-To run this project first copy the src and test in your directory then if you run this on VS code open terminal and then type
+To run this project first download the src and test in your directory then if you run this on VS code open terminal and then type
 ```
 npm init -y
 ```
@@ -26,4 +26,7 @@ And then add jest config to your package.json
     "testEnvironment": "node"
   }
 ```
-And then run unit test with npm test
+And then run unit test simply type
+```
+npm test
+```
