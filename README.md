@@ -1,1 +1,2 @@
-# TypeScript_Project
+To run this project first
+npm init -y
