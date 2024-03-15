@@ -1,4 +1,4 @@
-To run this project first 
+To run this project first copy the src and test in your directory then if you run this on VS code open terminal and then type
 ```
 npm init -y
 ```
@@ -14,6 +14,10 @@ To install jest @types/jest ts-jest typescript then your package.json devDepende
     "ts-jest": "^29.1.2",
     "typescript": "^5.4.2"
   }
+```
+Then change "test" in package.json to jest
+```
+"test": "jest"
 ```
 And then add jest config to your package.json
 ```
